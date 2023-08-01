@@ -1,0 +1,7 @@
+# Distribution / packaging
+env
+build
+
+# Assets
+node_modules
+
